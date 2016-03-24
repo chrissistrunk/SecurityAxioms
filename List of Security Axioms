@@ -1,6 +1,6 @@
-#This is a collective list of Axioms from the Security Community.
-#This is an example reference: http://www.catholicapologetics.info/catholicteaching/philosophy/axiomata.htm
-Computer Security:
-1.1. If a system or network is vulnerable to legacy malware, then it is certainly vulnerable to targeted attacks. (Sistrunk's Axiom)
+# This is a collective list of Axioms from the Security Community.
+# This is an example reference: http://www.catholicapologetics.info/catholicteaching/philosophy/axiomata.htm
 
-1.2. If an attacker can use an existing feature of a targeted system, then they aren't required to use a zero-day. (Ralph Lagner?)
+Computer Security Axioms:
+1. If a system or network is vulnerable to legacy malware, then it is certainly vulnerable to targeted attacks. (Sistrunk's Axiom)
+2. If an attacker can use an existing feature of a targeted system, then they aren't required to use a zero-day. (Ralph Lagner?)
