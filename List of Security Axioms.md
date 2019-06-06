@@ -1,5 +1,5 @@
-# This is a collective list of Axioms from the Security Community.
-# This is an example reference: http://www.catholicapologetics.info/catholicteaching/philosophy/axiomata.htm
+This is a collective list of Axioms from the Security Community.
+This is an example reference: http://www.catholicapologetics.info/catholicteaching/philosophy/axiomata.htm
 
 Computer Security Axioms:
 1. "If a system or network is vulnerable to legacy malware, then it is certainly vulnerable to targeted attacks." Christopher Sistrunk 2016 (Sistrunk's Axiom)
