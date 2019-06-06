@@ -1,7 +1,8 @@
-#This is a collective list of Axioms from the Security Community.
+# This is a collective list of Axioms from the Security Community.
 Example reference: http://www.catholicapologetics.info/catholicteaching/philosophy/axiomata.htm
 
-#Computer Security Axioms:
+Computer Security Axioms:
+========================
 1. "If a system or network is vulnerable to legacy malware, then it is certainly vulnerable to targeted attacks." Christopher Sistrunk 2016 (Sistrunk's Axiom)
 2. If an attacker can use an existing feature of a targeted system, then they aren't required to use a zero-day. Ralph Langner 201?
 3. "Give a man an 0day and he'll have access for a day, teach a man to phish and he'll have access for life." @thegrugq 2015
@@ -19,8 +20,9 @@ Example reference: http://www.catholicapologetics.info/catholicteaching/philosop
 8. "Security's worst enemy is complexity" Bruce Schneier 1999
 9. "Ability to type on a computer terminal is no guarantee of sanity, intelligence, or common sense." Eugene Spafford 1987 (Axiom #2 from his Axioms of Usenet)
 
-Microsoft's 10 Immutable Laws Version 2.0 (2011)
+-----
+Microsoft's 10 Immutable Laws Version 2.0 (2011)  
 https://technet.microsoft.com/en-us/library/hh278941.aspx
 
-Microsoft's 10 Immutable Laws Version 1.0 (2000)
+Microsoft's 10 Immutable Laws Version 1.0 (2000)  
 https://web.archive.org/web/20001207195000/http://www.microsoft.com/technet/security/10imlaws.asp
