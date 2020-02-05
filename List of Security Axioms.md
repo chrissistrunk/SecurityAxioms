@@ -19,7 +19,7 @@ Computer Security Axioms:
    * "Whenever an appliance is described as being 'smart', it's vulnerable." Mikko Hypponen 2016
 8. "Security's worst enemy is complexity" Bruce Schneier 1999
 9. "Ability to type on a computer terminal is no guarantee of sanity, intelligence, or common sense." Eugene Spafford 1987 (Axiom #2 from his Axioms of Usenet)
-10. Any secur ity technology whose effectiveness can't be empirically determined is indistinguishable from blind luck. (Geer's Law) Dan Geer 2003
+10. Any security technology whose effectiveness can't be empirically determined is indistinguishable from blind luck. (Geer's Law) Dan Geer 2003
    * "Geer’s law is a paraphrase of the analysis first presented in 'Information Security: Why the Future Belongs to the Quants.'” - Ian  Grigg & Peter Gutmann 2011
 
 -----
