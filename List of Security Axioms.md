@@ -21,6 +21,7 @@ Computer Security Axioms:
 9. "Ability to type on a computer terminal is no guarantee of sanity, intelligence, or common sense." Eugene Spafford 1987 (Axiom #2 from his Axioms of Usenet)
 10. Any security technology whose effectiveness can't be empirically determined is indistinguishable from blind luck. (Geer's Law) Dan Geer 2003
    * "Geer’s law is a paraphrase of the analysis first presented in 'Information Security: Why the Future Belongs to the Quants.'” - Ian  Grigg & Peter Gutmann 2011
+11. "New tools are adopted for the productivity boost they offer, not any increased security." Adam Crain 2020
 
 -----
 Microsoft's 10 Immutable Laws Version 2.0 (2011)  
